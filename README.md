@@ -2,8 +2,6 @@
 Smart Curriculum Activity &amp; Attendance App (SIH 2025 Prototype).
 # 🎓 Smart Attendance & Activity Monitoring System  
 
-# 🎓 Smart Attendance & Activity Monitoring System  
-
 ## 📌 Problem Statement  
 Traditional attendance systems are **time-consuming, error-prone, and lack real-time insights**.  
 This project provides a **digital solution** where students can mark attendance via QR codes (and later extendable to face recognition), and teachers/admins can manage records through a dashboard.  
@@ -90,6 +88,7 @@ npm run dev
 - Advanced analytics on **student engagement**.  
 
 ---
+## Team Name - HexaMinds
 
 ## 👨‍💻 Contributors  
 - [Battu Srija] – Full Stack Developer
